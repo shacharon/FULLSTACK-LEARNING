@@ -1,0 +1,22 @@
+{
+  "name": "fullstack-learning",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "description": "Full-stack learning exercises. TypeScript and Vitest are used for exercises and tests only.",
+  "engines": {
+    "node": ">=20"
+  },
+  "scripts": {
+    "test": "vitest run --passWithNoTests",
+    "typecheck": "node scripts/lesson.mjs typecheck",
+    "check": "node scripts/lesson.mjs check",
+    "experiment": "node scripts/lesson.mjs experiment"
+  },
+  "devDependencies": {
+    "@types/node": "^20.19.0",
+    "tsx": "^4.23.15",
+    "typescript": "^5.9.3",
+    "vitest": "^4.1.11"
+  }
+}
