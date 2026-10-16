@@ -1,6 +1,6 @@
 # CURRICULUM — FULLSTACK-LEARNING
 
-**Status: DRAFT — PENDING APPROVAL.** Created 2026-10-16. Lesson 01 is prepared (files only) and is **not started**. Do not start any lesson until the learner approves this file.
+**Status: APPROVED by the learner on 2026-10-16** (11 modules, 35 lessons, 11 reviews). Lesson 01 is prepared (files only) and is **not started**; it starts when the learner says "start lesson 01".
 **Rules for this file:** it is the contract. It changes only with the learner's explicit approval, and every change is logged in the Change log. It contains no lesson content, hints or solutions; lesson material is produced by the mentor (see MENTOR.md).
 
 ## Scaffolding tiers
@@ -147,3 +147,4 @@ Out of scope: databases and ORMs, DevOps and deployment, mobile, GraphQL, authen
 | Date | Change | Approved by |
 |---|---|---|
 | 2026-10-16 | File created as a draft; Lesson 01 prepared ahead (files only) at the owner's request | not yet approved |
+| 2026-10-16 | Status set to approved; no content change | learner ("yes approve") |

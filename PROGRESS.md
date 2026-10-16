@@ -9,7 +9,7 @@
 - title: Values, types, equality and truthiness (prepared, not started)
 - tier: A
 - step: 0 (not started)
-- pending task: Approve the draft syllabus in CURRICULUM.md, then say "start lesson 01". Lesson 01 files are prepared but have not been presented or taught.
+- pending task: Say "start lesson 01" to begin (syllabus approved 2026-10-16). Lesson 01 files are prepared but have not been presented or taught.
 - files: CURRICULUM.md · lessons/01-values-types-equality/
 - last validation: `npm run check -- 01` -> tests FAIL (0/14 pass, all "not implemented" as expected), tsc PASS (2026-10-16, baseline)
 - hints used: 0
